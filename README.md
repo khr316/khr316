@@ -10,7 +10,7 @@
 
 ### 📂 프로젝트
 - [**분실물 관리 웹 사이트**](https://github.com/khr316/lost-find) - SpringBoot | 웹 개발 첫걸음 !
-- - [**투두리스트 웹 사이트**](https://github.com/khr316/todolist) - SpringBoot | 투두리스트 모바일ver 웹 개발
+- [**투두리스트 웹 사이트**](https://github.com/khr316/todolist) - SpringBoot | 투두리스트 모바일ver 웹 개발
 - [**쇼핑몰 웹 사이트**](https://github.com/khr316/shop) - SpringBoot | 쇼핑몰 만들어보기
 - [**KEPCO 최종프로젝트**](https://github.com/khr316/skky) - Django | 데이터분석 + 웹개발 프로젝트
 <br>
